@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "581240908480",
+    "project_id": "dawaa24-neo",
+    "storage_bucket": "dawaa24-neo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581240908480:android:71461b14e62215f589db25",
+        "android_client_info": {
+          "package_name": "com.nano.dawa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmcVd2l7xHmJHc34dArceSBX_T7kEpj3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581240908480:android:9482a61080a6292189db25",
+        "android_client_info": {
+          "package_name": "winsoft.dawaa.twentyfour"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmcVd2l7xHmJHc34dArceSBX_T7kEpj3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
